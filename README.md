@@ -4,14 +4,14 @@
 - 100% работает с [[VIP] Core от Pisex](https://github.com/Pisex/cs2-vip).<br/>
 - Не работает с [[VIP] Core on CSSharp](https://github.com/partiusfabaa/cs2-VIPCore)<br/>
 
-**Если вы нашли какой-то баг или ошибку, напишите мне в дискорде: NiPos**
+**Если вы нашли какой-то баг или ошибку, напишите мне в дискорде: einy.**
 
 ## Установка
-- Загрузить [последний релиз](https://github.com/Nip0s/cs2-vipConvert/releases)
+- Загрузить [последний релиз](https://github.com/Stimayk/cs2-vipConvert/releases)
 - Закинуть папку vipConvert в addons/counterstrikesharp/plugins
 - Закинуть папку Iks_ASConvert addons/counterstrikesharp/plugins<br/>
 
-**Предупреждение:** При использовании вместе с [IKS_ASConvert](https://github.com/Iksix/Iks_ASConvert/releases/tag/1.00) обязательно устанавливайте версию IKS_ASConvert из архива
+**Предупреждение:** При использовании вместе с [IKS_ASConvert](https://github.com/Iksix/Iks_ASConvert/releases/) обязательно устанавливайте версию IKS_ASConvert из архива
 
 ## Команды
 	
